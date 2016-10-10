@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'WeekDaysSegmentedControl'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'A Weekday SegmentedControl'
 
   s.homepage         = 'https://github.com/antonio081014/WeekDaysSegmentedControl'
