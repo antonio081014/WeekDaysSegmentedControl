@@ -2,7 +2,7 @@
 //  WeekdaysSegmentedControl.swift
 //
 //  Created by Antonio081014 on 9/14/16.
-//  Copyright © 2016 Perfecular.com. All rights reserved.
+//  Copyright © 2016 Antonio081014.com. All rights reserved.
 //
 
 import UIKit
