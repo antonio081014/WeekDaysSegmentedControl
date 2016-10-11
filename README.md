@@ -4,13 +4,14 @@
 ![Selected State WeekDaysSegmentedControl](https://github.com/antonio081014/WeekDaysSegmentedControl/blob/master/Screenshots/Screenshot2.png)
 
 ## Installation
+TODO:
 
-WeekDaysSegmentedControl is available through [CocoaPods](http://cocoapods.org). To install
-it, simply add the following line to your Podfile:
+    WeekDaysSegmentedControl is available through [CocoaPods](http://cocoapods.org). To install
+    it, simply add the following line to your Podfile:
 
-```ruby
-pod "WeekDaysSegmentedControl"
-```
+    ```ruby
+    pod "WeekDaysSegmentedControl"
+    ```
 
 ## Author
 
