@@ -1,5 +1,8 @@
 # WeekDaysSegmentedControl
 
+![Init State WeekDaysSegmentedControl](https://github.com/antonio081014/WeekDaysSegmentedControl/blob/master/Screenshots/Screenshot1.png)
+![Selected State WeekDaysSegmentedControl](https://github.com/antonio081014/WeekDaysSegmentedControl/blob/master/Screenshots/Screenshot2.png)
+
 ## Installation
 
 WeekDaysSegmentedControl is available through [CocoaPods](http://cocoapods.org). To install
