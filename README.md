@@ -15,7 +15,9 @@ TODO:
 
 ## Author
 
-Antonio081014, antonio081014@antonio081014.com
+Antonio081014, 
+
+<a href="https://twitter.com/intent/tweet?screen_name=antonio081014" class="twitter-mention-button" data-show-count="false">Tweet to @antonio081014</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## License
 
